@@ -7,7 +7,7 @@ body{
 header{
     width: 1260px;
     height: 200px;
-    background-image: url(../imagenes/descarga.png);
+    background-image: url(/imagenes/descarga.png);
 }
 
 nav{
